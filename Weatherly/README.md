@@ -29,13 +29,18 @@ The application uses WeatherAPI to display current weather conditions and a thre
 
 ## Project Information
 
-| Detail | Information |
+## Student Information
+
+| Field | Details |
 |---|---|
-| Project | Weatherly |
-| Course | Code Camp |
+| Name | Shaurya Sharma |
+| Student ID (Matrikelnummer) | uk126717 |
 | University | University of Kassel |
+| Course | Code Camp |
 | Project Type | Individual Project |
-| Platform | iOS |
+| Project Name | Weatherly |
+
+
 
 ## Running the Project
 
